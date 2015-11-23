@@ -1,0 +1,44 @@
+c:\users\dellpc\documents\visual studio 2013\Projects\FINAL\FINAL\bin\Debug\FINAL.exe.config
+c:\users\dellpc\documents\visual studio 2013\Projects\FINAL\FINAL\bin\Debug\FINAL.exe
+c:\users\dellpc\documents\visual studio 2013\Projects\FINAL\FINAL\bin\Debug\FINAL.pdb
+c:\users\dellpc\documents\visual studio 2013\Projects\FINAL\FINAL\obj\Debug\FINAL.csprojResolveAssemblyReference.cache
+c:\users\dellpc\documents\visual studio 2013\Projects\FINAL\FINAL\obj\Debug\FINAL.Form1.resources
+c:\users\dellpc\documents\visual studio 2013\Projects\FINAL\FINAL\obj\Debug\FINAL.Properties.Resources.resources
+c:\users\dellpc\documents\visual studio 2013\Projects\FINAL\FINAL\obj\Debug\FINAL.csproj.GenerateResource.Cache
+c:\users\dellpc\documents\visual studio 2013\Projects\FINAL\FINAL\obj\Debug\FINAL.exe
+c:\users\dellpc\documents\visual studio 2013\Projects\FINAL\FINAL\obj\Debug\FINAL.pdb
+c:\users\dellpc\documents\visual studio 2013\Projects\FINAL\FINAL\bin\Debug\ActiproSoftware.Shared.Net20.dll
+c:\users\dellpc\documents\visual studio 2013\Projects\FINAL\FINAL\bin\Debug\ActiproSoftware.WinUICore.Net20.dll
+F:\FINAL\FINAL\bin\Debug\FINAL.exe.config
+F:\FINAL\FINAL\obj\Debug\FINAL.exe
+F:\FINAL\FINAL\obj\Debug\FINAL.pdb
+F:\FINAL\FINAL\bin\Debug\FINAL.exe
+F:\FINAL\FINAL\bin\Debug\FINAL.pdb
+F:\FINAL\FINAL\bin\Debug\ActiproSoftware.Shared.Net20.dll
+F:\FINAL\FINAL\bin\Debug\ActiproSoftware.WinUICore.Net20.dll
+F:\FINAL\FINAL\obj\Debug\FINAL.csprojResolveAssemblyReference.cache
+F:\FINAL\FINAL\obj\Debug\FINAL.Form1.resources
+F:\FINAL\FINAL\obj\Debug\FINAL.Properties.Resources.resources
+F:\FINAL\FINAL\obj\Debug\FINAL.csproj.GenerateResource.Cache
+C:\Users\bonda_000\Desktop\FINAL\FINAL\bin\Debug\FINAL.exe.config
+C:\Users\bonda_000\Desktop\FINAL\FINAL\obj\Debug\FINAL.exe
+C:\Users\bonda_000\Desktop\FINAL\FINAL\obj\Debug\FINAL.pdb
+C:\Users\bonda_000\Desktop\FINAL\FINAL\bin\Debug\FINAL.exe
+C:\Users\bonda_000\Desktop\FINAL\FINAL\bin\Debug\FINAL.pdb
+C:\Users\bonda_000\Desktop\FINAL\FINAL\bin\Debug\ActiproSoftware.Shared.Net20.dll
+C:\Users\bonda_000\Desktop\FINAL\FINAL\bin\Debug\ActiproSoftware.WinUICore.Net20.dll
+C:\Users\bonda_000\Desktop\FINAL\FINAL\obj\Debug\FINAL.csprojResolveAssemblyReference.cache
+C:\Users\bonda_000\Desktop\FINAL\FINAL\obj\Debug\FINAL.Form1.resources
+C:\Users\bonda_000\Desktop\FINAL\FINAL\obj\Debug\FINAL.Properties.Resources.resources
+C:\Users\bonda_000\Desktop\FINAL\FINAL\obj\Debug\FINAL.csproj.GenerateResource.Cache
+C:\Users\bonda_000\Desktop\Matviikiv_4_laba\FINAL\bin\Debug\FINAL.exe.config
+C:\Users\bonda_000\Desktop\Matviikiv_4_laba\FINAL\obj\Debug\FINAL.exe
+C:\Users\bonda_000\Desktop\Matviikiv_4_laba\FINAL\obj\Debug\FINAL.pdb
+C:\Users\bonda_000\Desktop\Matviikiv_4_laba\FINAL\bin\Debug\FINAL.exe
+C:\Users\bonda_000\Desktop\Matviikiv_4_laba\FINAL\bin\Debug\FINAL.pdb
+C:\Users\bonda_000\Desktop\Matviikiv_4_laba\FINAL\bin\Debug\ActiproSoftware.Shared.Net20.dll
+C:\Users\bonda_000\Desktop\Matviikiv_4_laba\FINAL\bin\Debug\ActiproSoftware.WinUICore.Net20.dll
+C:\Users\bonda_000\Desktop\Matviikiv_4_laba\FINAL\obj\Debug\FINAL.csprojResolveAssemblyReference.cache
+C:\Users\bonda_000\Desktop\Matviikiv_4_laba\FINAL\obj\Debug\FINAL.Form1.resources
+C:\Users\bonda_000\Desktop\Matviikiv_4_laba\FINAL\obj\Debug\FINAL.Properties.Resources.resources
+C:\Users\bonda_000\Desktop\Matviikiv_4_laba\FINAL\obj\Debug\FINAL.csproj.GenerateResource.Cache
