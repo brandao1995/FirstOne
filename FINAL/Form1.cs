@@ -88,6 +88,8 @@ namespace FINAL
             programists.Columns.Add("Price($)", typeof(int));
             programists.PrimaryKey = new DataColumn[] { programists.Columns["ID"] };
 
+
+            //заповнення
             programists.Rows.Add(1, "Turkey","Ankara", 17.11,28.12,7,1000);
             programists.Rows.Add(2, "Egypt", "Kair", 2.11, 28.12, 7, 2000);
             programists.Rows.Add(3, "Brazil", "Brazil", 4.11, 28.12, 7, 3000);
@@ -96,9 +98,6 @@ namespace FINAL
             programists.Rows.Add(6, "Russia", "Moscow", 23.11, 28.12, 7, 6000);
 
           
-
-
-            
             DataSet WW = new DataSet("RELATIONSHIPS");
             DataTable techo = WW.Tables.Add();
             techo.Columns.Add("Race_ID", typeof(int));
@@ -111,13 +110,10 @@ namespace FINAL
             techo.PrimaryKey = new DataColumn[] { techo.Columns["ID"] };
 
 
-
             techo.Rows.Add(1, "Turkey", "Ankara", 17.11, 28.12, 7, 1000);
             techo.Rows.Add(2, "Egypt", "Kair", 2.11, 28.12, 7, 2000);
 
 
-
-            
             DataTable skill = WW.Tables.Add();
             skill.Columns.Add("Race_ID", typeof(int));
             skill.Columns.Add("Name_of_Country", typeof(string));
@@ -128,18 +124,11 @@ namespace FINAL
             skill.Columns.Add("Price($)", typeof(int));
             skill.PrimaryKey = new DataColumn[] { skill.Columns["ID"] };
 
-            
-
-
-
 
             skill.Rows.Add(1, "dsafsf", "fdsfsdf", 200);
             skill.Rows.Add(2, "fsfdsf", "fdsfs", 404);
             skill.Rows.Add(3, "gfdgdf", "fdsfdf", 600);
             
-
-
-
 
             //виводжу на екран
             dataGridView1.DataSource = programists;

@@ -8,9 +8,7 @@ namespace FINAL
 {
     static class Program
     {
-        /// <summary>
-        /// Главная точка входа для приложения.
-        /// </summary>
+        //sunary не потрібне і не важливе
         [STAThread]
         static void Main()
         {
